@@ -1,4 +1,4 @@
-<script>// This function clears all the values
+
   function clearScreen() {
       document.getElementById("result").value = "";
   }
@@ -14,4 +14,4 @@
       var q = eval(p);
       document.getElementById("result").value = q;
   }
-  </script>
+  
